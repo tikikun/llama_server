@@ -1,0 +1,2 @@
+model = "/Users/daotuan/Documents/personalCode/llama_code/llama.cpp/models/Wizard-Vicuna-13B-Uncensored.ggml.q4_0.bin"
+n_ctx = 4000
